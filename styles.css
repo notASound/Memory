@@ -1,0 +1,33 @@
+h1 {
+  text-decoration:underline;
+  text-align: center;
+}
+
+img {
+max-width: 100%;
+max-height: 100%;
+border-style: inset;
+border-color: red;
+}
+
+p {
+  margin-left: 5%;
+}
+
+.hidden {
+ opacity: 0;
+  /* background-image: url(images/0.png); */
+  /* box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5; */
+}
+
+.memo-card {
+  border-style: inset;
+  padding: 0;
+  margin: 2%;
+  border-color: #FD5D5D;
+  background-color: #FF8080;
+}
+.score {
+  margin-left: 5%;
+}
